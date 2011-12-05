@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  published: false
+  a_date: 2011-12-05
+  a_date_time: 2011-12-05 19:30:46
+
+two:
+  published: false
+  a_date: 2011-12-05
+  a_date_time: 2011-12-05 19:30:46
